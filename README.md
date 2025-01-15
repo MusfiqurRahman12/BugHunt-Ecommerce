@@ -6,7 +6,7 @@ This project involves testing an e-commerce platform to ensure its functionality
 
 Clone the repository:
 
-git clone https://github.com/your-username/daraz-testing-demo.git
+git clone https://github.com/MusfiqurRahman12/BugHunt-Ecommerce
 
 Review test cases and test plans in the respective folders.
 
